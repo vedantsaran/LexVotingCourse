@@ -188,6 +188,40 @@ footer {
     background-color: #34495e;
     border-radius: 5px;
 }
+/* Why Course Section */
+
+.why-course {
+    padding: 50px 20px;
+    background-color: #f9f9f9;
+}
+
+.why-course h2 {
+    font-size: 28px;
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+.why-course p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.why-course ul {
+    list-style: disc inside;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.why-course ul li {
+    margin-bottom: 10px;
+}
+
+.why-course ul li::marker {
+    color: #2980b9;
+}
+
 
 
 .social-media a {
