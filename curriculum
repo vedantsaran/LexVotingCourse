@@ -1,0 +1,133 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Curriculum Overview - Mechanics of Voting</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation Menu -->
+    <header>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About the Course</a></li>
+                <li><a href="curriculum.html" class="active">Curriculum Overview</a></li>
+                <li><a href="implementation.html">Implementation</a></li>
+                <li><a href="outcomes.html">Expected Outcomes</a></li>
+                <li><a href="resources.html">Resources</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Page Banner -->
+    <section class="page-banner">
+        <h1>Curriculum Overview</h1>
+        <p>Dive into the comprehensive modules of our course.</p>
+    </section>
+
+    <!-- Main Content -->
+    <main>
+        <section class="curriculum">
+            <div class="module">
+                <h2>Module 1: Introduction to Voting and Democracy</h2>
+                <ul>
+                    <li>History and significance of voting in democratic systems.</li>
+                    <li>Overview of global voting systems and practices.</li>
+                    <li>The role of voting in shaping government policies and leadership.</li>
+                </ul>
+            </div>
+
+            <div class="module">
+                <h2>Module 2: The U.S. Electoral System</h2>
+                <ul>
+                    <li>How the U.S. electoral system works, including local, state, and federal elections.</li>
+                    <li>The difference between primaries, general elections, and special elections.</li>
+                    <li>Overview of the Electoral College system and how it functions.</li>
+                </ul>
+            </div>
+
+            <div class="module">
+                <h2>Module 3: Voter Eligibility and Registration</h2>
+                <ul>
+                    <li>Voter eligibility requirements and how they vary across states.</li>
+                    <li>The process of voter registration and deadlines.</li>
+                    <li>Importance of maintaining up-to-date registration information.</li>
+                </ul>
+            </div>
+
+            <div class="module">
+                <h2>Module 4: Mechanics of Casting a Vote</h2>
+                <ul>
+                    <li>Different voting methods: in-person, mail-in, absentee, and early voting.</li>
+                    <li>How ballots are structured (paper vs. electronic).</li>
+                    <li>How votes are counted and verified, ensuring fair elections.</li>
+                </ul>
+            </div>
+
+            <div class="module">
+                <h2>Module 5: Understanding Voter Rights and Responsibilities</h2>
+                <ul>
+                    <li>A review of voter rights, including protection against voter suppression.</li>
+                    <li>Responsibilities of voters to stay informed about candidates and issues.</li>
+                    <li>The importance of informed voting and civic participation.</li>
+                </ul>
+            </div>
+
+            <div class="module">
+                <h2>Module 6: Elections Beyond Politics: School and Community Leadership</h2>
+                <ul>
+                    <li>How voting applies to school elections, community boards, and other leadership roles.</li>
+                    <li>Encouraging student participation in local issues and elections.</li>
+                </ul>
+            </div>
+
+            <div class="module">
+                <h2>Module 7: Voter Challenges and Barriers</h2>
+                <ul>
+                    <li>Exploration of historical and contemporary barriers to voting (e.g., literacy tests, gerrymandering, voter ID laws).</li>
+                    <li>Efforts to overcome these challenges and promote voter equality.</li>
+                </ul>
+            </div>
+
+            <div class="module">
+                <h2>Module 8: Mock Elections and Role-playing Exercises</h2>
+                <ul>
+                    <li>Conduct a mock election where students participate in the entire process from registration to casting votes and tallying results.</li>
+                    <li>Encourage role-playing as election officials, candidates, and voters to simulate a real-world voting experience.</li>
+                </ul>
+            </div>
+
+            <div class="module">
+                <h2>Module 9: Analysis of Current Political Issues and Candidates</h2>
+                <ul>
+                    <li>How to critically evaluate political candidates and policies.</li>
+                    <li>The importance of media literacy in understanding bias and misinformation.</li>
+                    <li>How to research candidates and issues before voting.</li>
+                </ul>
+            </div>
+
+            <div class="module">
+                <h2>Module 10: Civic Engagement Beyond the Ballot Box</h2>
+                <ul>
+                    <li>The importance of participating in town halls, writing to elected officials, and engaging in community initiatives.</li>
+                    <li>Ways students can contribute to their communities before reaching voting age.</li>
+                </ul>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <p>&copy; All rights reserved.</p>
+            <
+        </div>
+    </footer>
+
+    <!-- JavaScript File -->
+    <script src="script.js"></script>
+</body>
+</html>
